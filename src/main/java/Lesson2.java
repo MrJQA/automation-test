@@ -1,4 +1,7 @@
+import com.sun.nio.sctp.SctpStandardSocketOptions;
+
 import java.util.Arrays;
+import java.util.stream.IntStream;
 
 public class Lesson2 {
 
@@ -22,7 +25,7 @@ public class Lesson2 {
 
         //Task 1 Option 3
         sumArray = 0;
-        for(Integer i:myArray)
+        for(int i:myArray)
         {
             sumArray += i;
         }
