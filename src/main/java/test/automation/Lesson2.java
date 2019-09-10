@@ -1,3 +1,5 @@
+package test.automation;
+
 import com.sun.nio.sctp.SctpStandardSocketOptions;
 
 import java.util.Arrays;
@@ -49,6 +51,10 @@ public class Lesson2 {
         }
         System.out.println(Arrays.toString(myArray));
 
+        //Task 2 Option 2
+        //System.out.println(Arrays.toString(
+        //IntStream.of(myArray).boxed().sorted((l, r) -> l % 2 - r % 2).toArray()
+        //));
     }
 
 }
