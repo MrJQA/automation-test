@@ -20,7 +20,7 @@ public class ArrayTransformSort {
                 }
             }
         }
-        System.out.println(Arrays.toString(arrayToSort));
+        //System.out.println(Arrays.toString(arrayToSort));
         return arrayToSort;
     }
 

@@ -1,4 +1,4 @@
-package test.automation.lesson4;
+package test.automation.lesson5;
 
 public enum Browser {
     //CHROME,

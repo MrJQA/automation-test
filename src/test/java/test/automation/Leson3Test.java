@@ -17,10 +17,12 @@ public class Leson3Test {
     @Test
     public void arrayTransformTest()
     {
+
         System.out.println(Arrays.toString(inputArray));
         System.out.println(Arrays.toString(at.transform(inputArray)));
         assertEquals(Arrays.toString(at.transform(inputArray)), Arrays.toString(outputArray));
         //assertTrue(Arrays.equals(inputArray, outputArray));
         // assertEquals(Arrays.toString(inputArray), Arrays.toString(outputArray));
+
     }
 }

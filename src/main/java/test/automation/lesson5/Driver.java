@@ -1,4 +1,4 @@
-package test.automation.lesson4;
+package test.automation.lesson5;
 
 import io.github.bonigarcia.wdm.ChromeDriverManager;
 import io.github.bonigarcia.wdm.FirefoxDriverManager;

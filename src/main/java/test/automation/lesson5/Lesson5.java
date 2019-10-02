@@ -1,8 +1,8 @@
-package test.automation.lesson4;
+package test.automation.lesson5;
 
 import org.openqa.selenium.WebDriver;
 
-public class Lesson4 {
+public class Lesson5 {
 
 
     public static void main(String[] args) {
